@@ -1,0 +1,4 @@
+[flake8]
+exclude = .git, .idea, doc, tests, .gitignore
+max-line-length = 120
+ignore = E203
